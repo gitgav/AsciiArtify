@@ -1,6 +1,6 @@
 Plugin installation: \
 curl -O https://raw.githubusercontent.com/gitgav/AsciiArtify/main/scripts/kubectl-kubeplugin \
-sudo mv kubectl-kubeplugin /usr/local/bin \
+sudo mv kubeplugin /usr/local/bin/kubectl-kubeplugin \
 \
 Plugin usage: \
 kubectl kubeplugin [resourse] [namespace] \
